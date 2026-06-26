@@ -87,16 +87,16 @@ SmartFactoryDecisionIntelligence/
 - ## Visualizations
 
 ### Failure Rate by Machine Type
-![Failure Rate by Machine Type](Images/failure_rate_by_type.png)
+![Failure Rate by Machine Type](images/failure_rate_by_type.png)
 
 ### Root Causes of Machine Failure
-![Root Causes of Machine Failure](Images/root_causes.png)
+![Root Causes of Machine Failure](images/root_causes.png)
 
 ### Tool Wear vs Machine Failure
-![Tool Wear vs Machine Failure](Images/tool_wear_vs_failure.png)
+![Tool Wear vs Machine Failure](images/tool_wear_vs_failure.png)
 
 ### Torque vs Machine Failure
-![Torque vs Machine Failure](Images/torque_vs_failure.png)
+![Torque vs Machine Failure](images/torque_vs_failure.png)
 
 ### Risk Category Distribution
-![Risk Category Distribution](Images/risk_category_distribution.png)
+![Risk Category Distribution](images/risk_category_distribution.png)
